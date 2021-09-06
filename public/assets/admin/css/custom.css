@@ -1,0 +1,16 @@
+a.AClass{
+	position: absolute;
+            right: 0;
+            top: 0;
+ }
+ a.AClass i{
+	  font-size: 30px;
+    color: red;
+}
+ 
+ .req{
+	border-color: red;
+}
+.req:focus{
+	    box-shadow: 0 0 0 0.25rem rgb(255 0 0 / 25%);
+}
